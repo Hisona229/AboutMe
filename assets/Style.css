@@ -1,0 +1,25 @@
+.text {
+  color: darkslategrey;
+  font-size: 25;
+  font-family: "Alkatra", cursive;
+  max-width: 60%;
+}
+
+.title {
+  color: darkslategrey;
+  font-family: "Alkatra", cursive;
+  font-size: 3em;
+  position: relative;
+  left: 30px;
+}
+
+.MyImage {
+  width: 300px;
+  margin-right: 50px;
+  margin-left: 20px;
+}
+
+.icon {
+  width: 20px;
+  margin-left: 15px;
+}
